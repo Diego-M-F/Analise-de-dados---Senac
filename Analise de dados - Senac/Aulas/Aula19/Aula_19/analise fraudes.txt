@@ -1,0 +1,7 @@
+Existe uma dispersão de 568.154 mil casos de fraude entre o valor máximo e o mínimo dos casos de fraudes entre as cidades dentro do Estado do RJ.
+
+Valor mediano próximo ao Q1, diferença entre mediana e media é de 7,3972 ou 739,72% uma diferença muito grande inviabilizando a utilização da média como parâmetro de demonstração.
+
+Um coeficiente de Variação de 5,272 ou 527,20% ou seja existe uma variabilidade muito grande entre os números de casos das cidades do Rio de Janeiro 
+
+Cidades como Rio de Janeiro, Niterói, Duque de Caxias, São Gonçalo, Nova Iguaçu compõem os 5 maiores outliers. Diferença entre Niterói 2° e Rio de Janeiro 1° é de 520.873 casos.

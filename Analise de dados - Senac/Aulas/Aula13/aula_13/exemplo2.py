@@ -1,0 +1,16 @@
+import pandas as pd
+
+df = pd.read_excel('./aula_2/vendas_eletronicos.xlsx')
+print(df.head())
+print("")
+print("Maior Valor:")
+print(f"R${df['Faturamento Total (R$)'].max():.2f}")
+print("")
+print("Menor Valor:")
+print(f'R${df["Faturamento Total (R$)"].min():.2f}')
+print("")
+print("Quantidade Vendida:")
+print(f'{df["Unidades Vendidas"].sum():.0f}')
+print("")
+print("Média do preço da Und:")
+print(f'R${df["Preço por Unidade (R$)"].mean():.2f}')
